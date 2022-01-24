@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @homealone07
+![Welcome to Venkat Amith's GITHUB PAGE](https://user-images.githubusercontent.com/98298826/150728612-4ad701f4-15ae-4d8d-b4e1-c159c746cf7e.png)
+
+
+- 👋 Hi, I’m @homealone07 (i.e Venkat Amith)
 - 👀 I’m interested in exploring the latest technologies (like WEB 3.0)
 - 🌱 I’m currently learning Computer Science
 - 📫 You can reach me through :-
