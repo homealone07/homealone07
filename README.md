@@ -25,6 +25,13 @@ AOPS : https://artofproblemsolving.com/community/user/582193 <br />
 MSE : https://math.stackexchange.com/users/816338/venkat-amith <br />
 Blog link : https://artofproblemsolving.com/community/c1337632 <br />
 
+
+**Summary:**<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=homealone07&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=homealone07&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=homealone07&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=homealone07&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=homealone07&theme=github_dark)
 <!---
 homealone07/homealone07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
