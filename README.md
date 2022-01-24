@@ -43,8 +43,6 @@ I am :-
 <a href="https://twitter.com/venkatamith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="venkatamith" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/venkat amith woonna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkat amith woonna" height="30" width="40" /></a>
 <a href="https://kaggle.com/venkat amith woonna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="venkat amith woonna" height="30" width="40" /></a>
-<a href="https://fb.com/venkat amith woonna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="venkat amith woonna" height="30" width="40" /></a>
-<a href="https://instagram.com/venkat_amith.w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="venkat_amith.w" height="30" width="40" /></a>
 <a href="https://discord.gg/Venkat_Amith#3453" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Venkat_Amith#3453" height="30" width="40" /></a>
 </p>
 
