@@ -14,19 +14,15 @@ Twitter : @VenkatAmith
 
 I am :- 
 
--> member of Operations and Techincal departments  in OWASP VIT CC.
-
--> member of Marketing Department in Microsoft Innovations Club.
-
--> member of Technincal Team of Game Developement Club.
-
--> member of NSS VIT CC.
+-> member of Operations and Techincal departments  in OWASP VIT CC.<br />
+-> member of Marketing Department in Microsoft Innovations Club.<br />
+-> member of Technincal Team of Game Developement Club.<br />
+-> member of NSS VIT CC.<br />
 
 Despite of these , i am also intrested in the feild of mathematics:-<br />
 Social Profiles : <br />
 AOPS : https://artofproblemsolving.com/community/user/582193 <br />
 MSE : https://math.stackexchange.com/users/816338/venkat-amith <br />
-
 Blog link : https://artofproblemsolving.com/community/c1337632 <br />
 
 <!---
