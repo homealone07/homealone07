@@ -14,10 +14,10 @@ Twitter : @VenkatAmith
 
 I am :- 
 
--> member of Operations and Techincal departments  in OWASP VIT CC.<br />
--> member of Marketing Department in Microsoft Innovations Club.<br />
--> member of Technincal Team of Game Developement Club.<br />
--> member of NSS VIT CC.<br />
+-> Member of Operations and Techincal departments  in OWASP VIT CC.<br />
+-> Member of Marketing Department in Microsoft Innovations Club.<br />
+-> Member of Technincal Team of Game Developement Club.<br />
+-> Member of NSS VIT CC.<br />
 
 Despite of these , i am also intrested in the feild of mathematics:-<br />
 Social Profiles : <br />
