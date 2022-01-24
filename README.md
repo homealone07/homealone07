@@ -13,10 +13,15 @@ Instagram : @venkat_amith.w
 Twitter : @VenkatAmith
 
 I am :- 
+
 -> member of Operations and Techincal departments  in OWASP VIT CC 
+
 -> member of Marketing Department in Microsoft Innovations Club 
+
 -> member of Technincal Team of Game Developement Club 
+
 -> member of NSS VIT CC
+
 
 <!---
 homealone07/homealone07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
