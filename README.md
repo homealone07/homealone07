@@ -22,6 +22,12 @@ I am :-
 
 -> member of NSS VIT CC.
 
+Despite of these , i am also intrested in the feild of mathematics:-<br />
+Social Profiles : <br />
+AOPS : https://artofproblemsolving.com/community/user/582193 <br />
+MSE : https://math.stackexchange.com/users/816338/venkat-amith <br />
+
+Blog link : https://artofproblemsolving.com/community/c1337632 <br />
 
 <!---
 homealone07/homealone07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
