@@ -2,8 +2,11 @@
 - 👀 I’m interested in exploring the latest technologies (like WEB 3.0)
 - 🌱 I’m currently learning Computer Science
 - 📫 You can reach me through :-
+
 Linkedin : https://www.linkedin.com/in/venkat-amith-woonna-38bb721b8/
+
 Instagram : @venkat_amith.w
+
 Twitter : @VenkatAmith
 
 <!---
