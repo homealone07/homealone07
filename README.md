@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with **learning JS and React**
 
-- 📝 I regularly write articles on [https://artofproblemsolving.com/community/c1337632](https://artofproblemsolving.com/community/c1337632)
+- 📝 I regularly write articles on [Art of Problem Solving](https://artofproblemsolving.com/community/c1337632)
 
 - 💬 Ask me about **Python and C++**
 
