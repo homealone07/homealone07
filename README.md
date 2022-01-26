@@ -26,7 +26,7 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1A-0YiCifwWG05HsnKUpxlAKWZgi0KCy6/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I like classics**
 
 
 I am :- 
