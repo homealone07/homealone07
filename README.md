@@ -1,4 +1,5 @@
 <h1 align="center">Hello 👋, I'm Venkat Amith</h1>
+
 <h3 align="center">A passionate  developer from India</h3>
 
 ![Welcome to Venkat Amith's GITHUB PAGE](https://user-images.githubusercontent.com/98298826/150728612-4ad701f4-15ae-4d8d-b4e1-c159c746cf7e.png)
@@ -74,6 +75,10 @@ Blog link : https://artofproblemsolving.com/community/c1337632 <br />
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=homealone07&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=homealone07&theme=default)
 
+<h3 align="left">Daily.Dev Card:</h3>
+
+
+<a href="https://app.daily.dev/VenkatAmith"><img src="https://api.daily.dev/devcards/44c6bb49773c4605a3e2122635f858fb.png?r=jif" width="400" alt="Venkat Amith Woonna's Dev Card"/></a>
 <!---
 homealone07/homealone07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
