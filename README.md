@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **with curious people to work on the latest technologies**
 
-- 🤝 I’m looking for help with **learning JS and React**
+- 🤝 I’m looking for help with **learning Java Script and React**
 
 - 📝 I regularly write articles on [Art of Problem Solving](https://artofproblemsolving.com/community/c1337632)
 
