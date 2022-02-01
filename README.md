@@ -35,7 +35,7 @@ I am :-
 -> Member of Operations and Techincal departments  in OWASP VIT CC.<br />
 -> Member of Marketing Department in Microsoft Innovations Club.<br />
 -> Member of Technincal Team of Game Developement Club.<br />
--> Member of NSS VIT CC.<br />
+-> Member of Novel Nation and  NSS VIT CC.<br />
 
 
 
@@ -75,10 +75,7 @@ Blog link : https://artofproblemsolving.com/community/c1337632 <br />
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=homealone07&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=homealone07&theme=default)
 
-<h3 align="left">Daily.Dev Card:</h3>
-
-
-<a href="https://app.daily.dev/VenkatAmith"><img src="https://api.daily.dev/devcards/44c6bb49773c4605a3e2122635f858fb.png?r=jif" width="400" alt="Venkat Amith Woonna's Dev Card"/></a>
+>
 <!---
 homealone07/homealone07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
