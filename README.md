@@ -7,11 +7,11 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=homealone07&label=Profile%20views&color=0e75b6&style=flat" alt="homealone07" /> </p>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=homealone07" alt="homealone07" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/venkatamith" target="blank"><img src="https://img.shields.io/twitter/follow/venkatamith?logo=twitter&style=for-the-badge" alt="venkatamith" /></a> </p>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 
 <h1 align="left">💢About Me </h1>
