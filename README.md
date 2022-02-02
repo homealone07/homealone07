@@ -13,7 +13,7 @@
 <p align="left"> <a href="https://twitter.com/venkatamith" target="blank"><img src="https://img.shields.io/twitter/follow/venkatamith?logo=twitter&style=for-the-badge" alt="venkatamith" /></a> </p>
 
 <h1 align="left">💢About Me </h1>
-- 🔭 I’m currently **2nd year CSE student studying undergrad at VIT Chennai.**
+- 🔭 I’m sophomore  VIT Chennai.
 
 - 🌱 I’m currently learning **JAVA**
 
@@ -39,15 +39,19 @@
 -> Member of Technincal Team of Game Developement Club.<br />
 -> Member of Novel Nation and  NSS VIT CC.<br />
 
+<div align="center">
+<h3> 🤝🏻 Connect With Me @ </h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/venkat-amith-woonna-38bb721b8/)
+[![Github](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub)](https://github.com/homealone07)
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=flat-square&logo=Instagram)](https://www.instagram.com/venkat_amith.w/)
+[![Gmail](https://img.shields.io/badge/Gmail-black?style=flat-square&logo=Gmail)](mailto:venkatamithwoonna@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=Twitter)](https://twitter.com/VenkatAmith)
+[![Kaggle](https://img.shields.io/badge/Kaggle-black?style=flat-square&logo=Kaggle)](https://www.kaggle.com/venkatamithwoonna)
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/venkatamith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="venkatamith" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/venkat amith woonna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkat amith woonna" height="30" width="40" /></a>
-<a href="https://kaggle.com/venkat amith woonna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="venkat amith woonna" height="30" width="40" /></a>
-<a href="https://discord.gg/Venkat_Amith#3453" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Venkat_Amith#3453" height="30" width="40" /></a>
-</p>
+</div>
+
 
 
 Despite of these , i am also intrested in the feild of mathematics:-<br />
@@ -63,7 +67,7 @@ Blog link : https://artofproblemsolving.com/community/c1337632 <br />
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=homealone07&show_icons=true&locale=en&layout=compact" alt="homealone07" /></p>
 <br />
-<h3 align="left">Github Stats:</h3>
+<h1 align="left">⚙️ GitHub Analytics:</h1>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=homealone07&show_icons=true&locale=en" alt="homealone07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=homealone07&" alt="homealone07" /></p>
@@ -76,7 +80,13 @@ Blog link : https://artofproblemsolving.com/community/c1337632 <br />
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=homealone07&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=homealone07&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=homealone07&theme=default)
+<br/>
 
+![GitH𝚞𝚋 G𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=homealone07&theme=react-dark&hide_border=true&area=true)
+
+#
+
+<br/>
 >
 <!---
 homealone07/homealone07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
