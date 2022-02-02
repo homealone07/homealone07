@@ -4,6 +4,7 @@
 
 ![Welcome to Venkat Amith's GITHUB PAGE](https://user-images.githubusercontent.com/98298826/150728612-4ad701f4-15ae-4d8d-b4e1-c159c746cf7e.png)
 
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=homealone07&label=Profile%20views&color=0e75b6&style=flat" alt="homealone07" /> </p>
 
