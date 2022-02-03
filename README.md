@@ -2,9 +2,8 @@
 
 <h3 align="center">A passionate  developer from India</h3>
 
-![Welcome to Venkat Amith's GITHUB PAGE](https://user-images.githubusercontent.com/98298826/150728612-4ad701f4-15ae-4d8d-b4e1-c159c746cf7e.png)
 
-
+![Welcome to Venkat Amith's GITHUB PAGE](https://github.com/homealone07/homealone07/blob/main/GITHUB%20%20Venkat%20Amith%20Woonna.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=homealone07&label=Profile%20views&color=0e75b6&style=flat" alt="homealone07" /> </p>
 
