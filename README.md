@@ -14,6 +14,7 @@
 
 
 <h1 align="left">💢About Me </h1>
+
 - 🔭 I’m sophomore  VIT Chennai.
 
 - 🌱 I’m currently learning **JAVA**
