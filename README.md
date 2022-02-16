@@ -1,5 +1,7 @@
 <h1 align="center">Hello 👋, I'm Venkat Amith</h1>
 
+
+
 <h3 align="center">A passionate  developer from India</h3>
 
 
@@ -37,9 +39,14 @@
 <h3 align="left">I am :- </h3>
 
 -> Member of Operations and Techincal departments  in OWASP VIT CC.<br />
+
 -> Member of Marketing Department in Microsoft Innovations Club.<br />
+
 -> Member of Technincal Team of Game Developement Club.<br />
+
 -> Member of Novel Nation and  NSS VIT CC.<br />
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <div align="center">
 <h3> 🤝🏻 Connect With Me @ </h3>
@@ -51,7 +58,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=Twitter)](https://twitter.com/VenkatAmith)
 [![Kaggle](https://img.shields.io/badge/Kaggle-black?style=flat-square&logo=Kaggle)](https://www.kaggle.com/venkatamithwoonna)
 
-
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 </div>
 
 
