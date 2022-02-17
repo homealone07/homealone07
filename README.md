@@ -81,7 +81,7 @@ Blog link : https://artofproblemsolving.com/community/c1337632 <br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=homealone07&" alt="homealone07" /></p>
 
 <br />
-<h3 align="left">Summary:</h3>
+<h2 align="left">Summary:</h2>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=homealone07&theme=default)
 
