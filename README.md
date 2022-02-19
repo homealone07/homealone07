@@ -27,7 +27,7 @@
 
 - 📝 I regularly write articles on [Art of Problem Solving](https://artofproblemsolving.com/community/c1337632)
 
-- 💬 Ask me about **Python and C++**
+- 💬 Ask me about **Python , C++ and Calculus**
 
 - 📫 How to reach me **venkatamithwoonna@gmail.com**
 
