@@ -38,7 +38,7 @@
 
 <h3 align="left">I am :- </h3>
 
--> Member of Operations and Techincal departments  in OWASP VIT CC.<br />
+-> Member of Operations and Techincal departments  in CYSCOM VIT CC.<br />
 
 -> Member of Marketing Department in Microsoft Innovations Club.<br />
 
