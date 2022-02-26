@@ -40,7 +40,7 @@
 
 -> Member of Operations and Techincal departments  in CYSCOM VIT CC.<br />
 
--> Member of Marketing Department in Microsoft Innovations Club.<br />
+-> Member of Marketing Department in Microsoft Innovations Club(MIC).<br />
 
 -> Member of Technincal Team of Game Developement Club.<br />
 
