@@ -63,7 +63,7 @@
 
 
 
-Despite of these , i am also intrested in the feild of mathematics:-<br />
+Despite of these , I am also intrested in the feild of mathematics:-<br />
 Social Profiles :- <br />
 
 AOPS : https://artofproblemsolving.com/community/user/582193 <br />
