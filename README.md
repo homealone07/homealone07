@@ -19,7 +19,7 @@
 
 - 🔭 I’m sophomore  VIT Chennai.
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **Android Development**
 
 - 👯 I’m looking to collaborate on **with curious people to work on the latest technologies**
 
