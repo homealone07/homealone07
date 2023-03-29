@@ -38,13 +38,10 @@
 
 <h3 align="left">I am :- </h3>
 
--> Member of Operations and Techincal departments  in CYSCOM VIT CC.<br />
+-> Principle Secratary at Microsoft Innovations Club (MIC) .<br />
 
--> Member of Marketing Department in Microsoft Innovations Club(MIC).<br />
 
--> Member of Technincal Team of Game Developement Club.<br />
-
--> Member of Novel Nation and  NSS VIT CC.<br />
+-> Design and UI / UX Lead at  NSS VIT CC.<br />
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
